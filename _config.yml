@@ -1,7 +1,7 @@
 # Site
-title:              Nha Nguyen
-bio:                'A developer with an artistic soul'
-description:        "A developer with an artistic soul."
+title:              Nhạ Nguyễn
+bio:                'A developer has an artistic soul'
+description:        "I never fear death or dying\n I only fear never trying\n I am whatever I am."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,18 +38,19 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github:             username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+twitter:            https://twitter.com/NullPhilips
+facebook:           https://www.facebook.com/phac.nam
+github:             https://github.com/nhanv
+stackoverflow:      http://stackoverflow.com/users/4736587/philips-null
+linkedin:           https://www.linkedin.com/in/nh%E1%BA%A1-nguy%E1%BB%85n-a36520117?trk=nav_responsive_tab_profile_pic
 #xing:              username
-instagram:          username
+instagram:          https://www.flickr.com/photos/134924531@N05/
+#https://www.instagram.com/philipsnull/
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:             https://steamcommunity.com/profiles/76561198326655734/home
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
