@@ -1,7 +1,7 @@
 # Site
 title:              Nhạ Nguyễn
 bio:                'A developer has an artistic soul'
-description:        "I never fear death or dying\n I only fear never trying\n I am whatever I am."
+description:        "Code for food."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,13 +38,13 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            https://twitter.com/NullPhilips
-facebook:           https://www.facebook.com/phac.nam
-github:             https://github.com/nhanv
-stackoverflow:      http://stackoverflow.com/users/4736587/philips-null
-linkedin:           https://www.linkedin.com/in/nh%E1%BA%A1-nguy%E1%BB%85n-a36520117?trk=nav_responsive_tab_profile_pic
+twitter:            NullPhilips
+facebook:           phac.nam
+github:             nhanv
+stackoverflow:      4736587/philips-null
+#linkedin:          https://www.linkedin.com/in/nh%E1%BA%A1-nguy%E1%BB%85n-a36520117?trk=nav_responsive_tab_profile_pic
 #xing:              username
-instagram:          https://www.flickr.com/photos/134924531@N05/
+#instagram:         https://www.flickr.com/photos/134924531@N05/
 #https://www.instagram.com/philipsnull/
 #lastfm:            username
 #tumblr:            username
@@ -55,7 +55,7 @@ instagram:          https://www.flickr.com/photos/134924531@N05/
 #youtube:           username
 #soundcloud:        username
 #weibo:             username
-#flickr:            username
+flickr:             134924531@N05
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
