@@ -1,37 +1,36 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+tags: [about]
+date: 2016-08-23
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>A Developer has an artistic sounl.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Nhạ Nguyễn
+Please call me Nathan or PhilipsNull. I live in Ha Noi.
+I have experience in working with Android SDK, Java (OOP, Jetty, ...), Construct2, C++ (cocos2dx, ...)...
+I have a passion for traveling and exploring. I hope I can go to everywhere in the world.
+One of my favourite is programming. It is very interesting.
+But it's not all. Besides, I have my family, my life, my friend...
+My goal establish this blog is created a place to store my knowledge, to share my experience,  to inspire both you and me to programming... and to talk anything.
 
-## Preview
+## Contact
+* Nguyen Van Nha
+* Email: nathannguyenit@gmail.com
+* Skype: nathannguyenit@gmail.com
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Thanks
+* This blog was forked from Moon. It’s made by @Taylan Tatlı.
+* Developed on GitHub and hosted for free on GitHub Pages.
+* Thanks for visited and hope you enjoy !
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
+<center>*I never fear death or dying*</center>
+<center>*I only fear never trying*</center>
+<center>*I am whatever I am...*</center>
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+
+<center>*By Nathan 2016-08-23*</center>
