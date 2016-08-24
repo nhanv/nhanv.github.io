@@ -6,6 +6,7 @@ date: 2016-08-23
 comments: false
 ---
     
+<center><img src="assets\img\about.png" alt="About" style="width:250px;height:250px;"></center>
 <center>A Developer has an artistic sounl.</center>
 
 ## Nhạ Nguyễn
