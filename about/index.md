@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: About
 tags: [about]
 date: 2016-08-23
 comments: false
