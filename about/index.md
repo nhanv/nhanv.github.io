@@ -6,7 +6,7 @@ date: 2016-08-23
 comments: false
 ---
 
-<center>A Developer has an artistic sounl.</center>
+<center>A Developer has an artistic soul.</center>
 
 ## Nhạ Nguyễn
 * Please call me Nathan or PhilipsNull. I live in Ha Noi.
