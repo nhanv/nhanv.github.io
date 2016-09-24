@@ -7,10 +7,7 @@ tags: [post, story]
 comments: true
 story: true
 ---
-
-<center>Cuộc sống, bạn bè và những cuộc rượu.</center>
-
-[Viết cho những thằng bạn]
+[Viết cho những thằng bạn]<br>
 Họ đánh giá chúng tôi qua những cuộc nhậu.
 Họ nói, chúng tôi nát. Đúng, chúng tôi nát. Chúng tôi không phủ nhận điều đó.
 Nhưng họ đâu có biết, đằng sau mỗi cuộc rượu ấy là gì. Họ đâu có biết, đằng sau mỗi chén rượu là bao nhiêu bế tắc trong cuộc sống, là bao nhiêu nỗi đau, lo toan, sợ hãi, bao nhiêu máu và những giọt nước mắt.
@@ -29,8 +26,8 @@ Họ nói, uống rượu là để quên đi. Gần đúng. Chúng tôi, uống
 Họ nói, uống là để say. Sai lầm. Chúng tôi không muốn say, mà đó là cảm giác uống không thiết sống, hoặc uống vì những thằng không thiết sống nữa.
 Họ hỏi chúng tôi uống làm gì? À, chúng tôi uống, chẳng để làm gì cả, có thể là để trải lòng, để dựa vào vai nhau mà khóc, để nhớ, và để quên.
 
-<center>"Wars come and go. But my soldiers stay eternal." - Tupac</center>
-<center>"Cốc bia đến rồi đi, nhưng mấy thằng bạn tao thì ngồi nhậu mãi." - Dũng Xếch</center>
+<center><i>"Wars come and go. But my soldiers stay eternal." - Tupac</i></center>
+<center><i>"Cốc bia đến rồi đi, nhưng mấy thằng bạn tao thì ngồi nhậu mãi." - Dũng Xếch</i></center>
  
 Nếu như biết một kiếp đời nghèo khổ, ta có giữ lấy ước mơ
 Có miệt mài bên cây bút, trải lòng ta suốt từng giờ
