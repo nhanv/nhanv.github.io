@@ -10,7 +10,7 @@ comments: false
 
 ## Nhạ Nguyễn
 * My name is Nha.
-* I have many hobbies and my favourite is programming. That’s interesting!
+* I have many hobbies and my favourite is programming. That’s interesting!.
 * I had more experience in working with Android SDK, Java (OOP, Jetty, …), Construct2, C++ (cocos2dx, …)…
 * But it’s not all. Besides, I have my family, my life, my friends…
 * I have a passion for traveling and exploring. I hope I will can go to everywhere in the world in the future.
