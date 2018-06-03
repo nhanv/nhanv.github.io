@@ -27,9 +27,9 @@ Họ nói, uống là để say. Sai lầm. Chúng tôi không muốn say, mà �
 Họ hỏi chúng tôi uống làm gì? À, chúng tôi uống, chẳng để làm gì cả, có thể là để trải lòng, để dựa vào vai nhau mà khóc, để nhớ, và để quên.
 
 <center><i>"Wars come and go. But my soldiers stay eternal." - Tupac</i></center>
-<center><i>"Cốc bia đến rồi đi, nhưng mấy thằng bạn tao thì ngồi nhậu mãi." - Dũng Xếch</i></center>
+<center><i>"Cốc bia đến rồi đi, nhưng mấy thằng bạn tao thì ngồi nhậu mãi." - Dũng Xếch</i></center><br>
  
-<center>Nếu như biết một kiếp đời nghèo khổ, ta có giữ lấy ước mơ</center>
-<center>Có miệt mài bên cây bút, trải lòng ta suốt từng giờ</center>
-<center>Hay ta sẽ tìm một bến đỗ và tạm gác lại tuổi thơ</center>
-<center>Đuổi theo đồng tiền và danh vọng, cho khao khát kia đợi chờ</center>
+Nếu như biết một kiếp đời nghèo khổ, ta có giữ lấy ước mơ
+Có miệt mài bên cây bút, trải lòng ta suốt từng giờ
+Hay ta sẽ tìm một bến đỗ và tạm gác lại tuổi thơ
+Đuổi theo đồng tiền và danh vọng, cho khao khát kia đợi chờ
