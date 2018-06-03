@@ -1,13 +1,11 @@
 ---
 layout: post
 title: "Get started"
-date: 2016-08-23
+date: 2018-06-04
 excerpt: "Let's start with my blog."
-tags: [post, story]
+tags: [post, project]
 comments: true
-story: true
-post: true
 project: true
 ---
 
-The first post is comming soon...
+The first project is comming soon...
