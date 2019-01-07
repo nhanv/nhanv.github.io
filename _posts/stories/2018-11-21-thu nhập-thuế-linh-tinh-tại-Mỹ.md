@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thu Nhập, Thuế và linh tinh tại Mỹ"
-date: 2019-01-07
+date: 2018-11-21
 excerpt: "Thu nhập, thuế, và vài chuyện linh tinh khác"
 tags: [post, story]
 comments: true
